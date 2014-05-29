@@ -1,6 +1,8 @@
 FindingKnottedAndLinkedVorticityLinesIn3DVectorFields
 =====================================================
 
+[![doi](https://zenodo.org/badge/3853/ryancoleman/FindingKnottedAndLinkedVorticityLinesIn3DVectorFields.png)](http://dx.doi.org/10.5281/zenodo.10215)
+
 code from my master's thesis work. has sat in a backup folder for a 
 decade. might be useful? 
 
